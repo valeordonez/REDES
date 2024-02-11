@@ -1,0 +1,143 @@
+Preguntas de lectura: Capítulo 2
+1.	Describir la estructura de una red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas. 
+Una red se compone de diversos elementos interconectados para facilitar la comunicación entre dispositivos. La estructura de una red abarca:
+•	Dispositivos Finales (End Devices):
+Son los puntos finales de la red, donde los usuarios acceden a los recursos y servicios. Incluyen computadoras personales, dispositivos móviles, impresoras, entre otros.
+•	Dispositivos Intermedios (Intermediate Devices):
+Actúan como intermediarios en la transferencia de datos dentro de la red. Ejemplos son routers, switches, hubs y bridges. Cada uno tiene un papel específico en el enrutamiento, filtrado o amplificación de señales.
+•	Medios de Comunicación (Media):
+Son los canales físicos o inalámbricos a través de los cuales los datos se transmiten entre dispositivos. Pueden ser cables de cobre, fibras ópticas, ondas de radio o incluso satélites. La elección del medio depende de factores como la distancia, la velocidad y la fiabilidad requeridas.
+•	Servicios:
+Incluyen funciones que facilitan la comunicación y el acceso a recursos. Ejemplos son el enrutamiento, la resolución de direcciones (DNS), la seguridad y los servicios de aplicación específicos.
+•	Protocolos:
+Son conjuntos de reglas que rigen la comunicación entre dispositivos en la red. Los protocolos definen cómo los datos se encapsulan, transmiten y reciben. Ejemplos comunes son TCP/IP (Transmission Control Protocol/Internet Protocol) y HTTP (Hypertext Transfer Protocol).
+•	Infraestructura Física y Lógica:
+La infraestructura física incluye los cables, routers, switches y demás hardware tangible. La infraestructura lógica abarca los protocolos, direcciones IP y configuraciones de software que permiten la comunicación.
+
+
+•	Topología de Red:
+Se refiere a la disposición física o lógica de los dispositivos y cables en la red. Las topologías comunes son en estrella, en bus, en anillo y en malla.
+•	Gestión de Red:
+Involucra la supervisión y administración de la red para garantizar su rendimiento y seguridad. Incluye tareas como la detección de fallos, la optimización del tráfico y la implementación de políticas de seguridad.
+2.	Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+•	RED:
+En términos generales, una red se refiere a la conexión de múltiples dispositivos que pueden comunicarse entre sí. Puede ser tan pequeña como una conexión entre dos dispositivos o tan grande como una red global.
+El término "red" es un concepto amplio y puede referirse a cualquier conexión entre dispositivos, independientemente de su proximidad geográfica.
+•	LAN (Red de Área Local):
+Es una red limitada a una ubicación geográfica específica, como un edificio, una oficina o un campus. Los dispositivos en una LAN están generalmente en estrecha proximidad física.
+Con velocidades de transmisión rápidas y altamente confiable. Ejemplos comunes son las redes dentro de hogares o empresas.
+•	WAN (Red de Área Extensa):
+Es una red que abarca un área geográfica extensa, como una ciudad, un país o incluso a nivel global. Los dispositivos en una WAN pueden estar separados por distancias significativas.
+Con velocidades de transmisión potencialmente más lentas y menor confiabilidad en comparación con LAN. Internet es un ejemplo de una WAN global.
+•	INTERNETWORK:
+Se refiere a la conexión de múltiples redes para permitir la comunicación entre ellas. Un internetwork puede consistir en varias LAN y WAN interconectadas mediante dispositivos como routers.
+Intermedio entre LAN y WAN, ya que puede abarcar distancias más grandes pero aún conecta redes más pequeñas.
+•	INTERNET:
+La "Internet" (con mayúscula) es la red global de redes que utiliza el conjunto de protocolos TCP/IP. Es una gran internetwork que conecta innumerables dispositivos y servicios en todo el mundo.
+Con acceso a una amplia variedad de recursos y servicios. A menudo se accede a través de proveedores de servicios de Internet (ISP).
+•	Comparación:
+La "red" es el término más amplio que engloba cualquier conexión entre dispositivos.
+Una LAN es una red local, limitada a una ubicación geográfica específica.
+Una WAN es una red de área extensa que abarca distancias geográficas más amplias.
+Un internetwork conecta múltiples redes para permitir la comunicación entre ellas.
+La "Internet" es la red global de redes basada en el protocolo TCP/IP, accesible a nivel mundial.
+3.	¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+•	INTERNETWORK:
+Un internetwork se refiere a la conexión de múltiples redes individuales para permitir la comunicación entre ellas. Este término se utiliza comúnmente para describir la interconexión de LAN y WAN mediante dispositivos como routers.
+•	INTERNET:
+La "Internet" (con mayúscula) se refiere a la red global de redes que utiliza el conjunto de protocolos TCP/IP. Es una gran internetwork a escala mundial que conecta innumerables dispositivos, servicios y redes.
+La principal diferencia radica en el alcance y la escala:
+INTERNETWORK: Se refiere a la conexión de redes en un ámbito más local o privado, como la interconexión de sucursales de una empresa.
+INTERNET: Es la red global de redes a nivel mundial, accesible al público en general.
+
+
+4.	Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+•	Tarjeta de Interfaz de Red (NIC):
+Una Tarjeta de Interfaz de Red, o NIC por sus siglas en inglés (Network Interface Card), es un componente de hardware que se instala en un dispositivo (como una computadora) para permitir la conexión a una red. Esta tarjeta facilita la comunicación entre el dispositivo y la red al convertir datos internos en un formato adecuado para la transmisión a través de la red y viceversa.
+La NIC actúa como el medio físico de conexión entre el dispositivo y la red, permitiendo la transmisión y recepción de datos.
+•	Puerto Físico:
+En el contexto de redes, un puerto físico se refiere a un punto de conexión físico en un dispositivo que se utiliza para conectar cables de red o dispositivos de red. En muchos casos, se asocia con un conector físico específico, como un puerto Ethernet.
+Los puertos físicos son interfaces físicas en un dispositivo que permiten la conexión física a una red mediante cables o conexiones directas.
+•	Interfaz de Red:
+La interfaz de red es el punto de conexión lógico o la configuración de software que permite que una aplicación o sistema operativo acceda a la red a través de la NIC. En el contexto del software, también puede referirse a configuraciones y parámetros de red asociados con una conexión específica.
+Proporciona una interfaz lógica para que el software se comunique con la red a través de la NIC y gestiona la configuración de red.
+•	Relación entre ellos:
+La NIC es el componente de hardware que se conecta físicamente al puerto de red de un dispositivo.
+El puerto físico es el punto de conexión físico en el dispositivo, a menudo asociado con un conector específico.
+La interfaz de red es la configuración lógica o el software que permite la comunicación entre el dispositivo y la red a través de la NIC y el puerto físico.
+5.	¿Por qué se dice que un protocolo es independiente de la tecnología? 
+Se dice que un protocolo es independiente de la tecnología cuando su implementación y funcionamiento no están vinculados a un hardware o tecnología específicos. En el contexto de las redes de computadoras, un protocolo define reglas y convenciones para la comunicación entre dispositivos, pero no especifica cómo se deben implementar esas reglas a nivel de hardware.
+Razones para la Independencia de la Tecnología:
+Flexibilidad: Un protocolo independiente de la tecnología permite adaptarse a diferentes entornos y tipos de hardware. Esto facilita la interoperabilidad entre dispositivos de diversos fabricantes.
+Escalabilidad: Al no depender de una tecnología específica, los protocolos pueden escalar para soportar redes de diversos tamaños y complejidades.
+Innovación: La independencia de la tecnología fomenta la innovación al permitir la introducción de nuevas tecnologías sin cambiar los protocolos existentes.
+6.	Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU).
+Una Unidad de Datos del Protocolo (PDU) es una entidad o bloque de información que se utiliza en la comunicación de redes. Cada capa del modelo OSI o del modelo TCP/IP tiene su propia PDU con un nombre específico, y estas PDUs son encapsuladas y desencapsuladas a medida que los datos atraviesan las capas del modelo.
+1.	Capas y PDUs Asociadas:
+•	Modelo OSI:
+Capa de Aplicación: En esta capa, la PDU se conoce como "Datos" o "Mensaje de Datos de la Aplicación".
+Capa de Presentación: En esta capa, la PDU se llama "Datos" y se ocupa de la representación y codificación de datos.
+Capa de Sesión: La PDU es llamada "Datos" y gestiona el establecimiento, mantenimiento y finalización de sesiones.
+Capa de Transporte: Aquí, la PDU se llama "Segmento" y se encarga de la segmentación y control de flujo.
+Capa de Red: La PDU se conoce como "Paquete" y se encarga del direccionamiento y enrutamiento.
+Capa de Enlace de Datos: En esta capa, la PDU es una "Trama" y maneja la detección y corrección de errores.
+Capa Física: La PDU es "Bits" y representa la unidad de datos a nivel físico.
+•	Modelo TCP/IP:
+Capa de Aplicación: En esta capa, la PDU puede llamarse "Datos" o "Mensaje".
+Capa de Transporte: La PDU se conoce como "Segmento" y maneja la segmentación y el control de flujo, similar a la capa de transporte del modelo OSI.
+Capa de Internet: La PDU se llama "Paquete" y se ocupa del enrutamiento y direccionamiento, similar a la capa de red del modelo OSI.
+Capa de Acceso a la Red: En esta capa, la PDU es una "Trama" y se encarga de la transmisión física de bits.
+•	Encapsulamiento:
+A medida que los datos descienden a través de las capas, se encapsulan en la PDU correspondiente. Cada capa agrega su propia información de control y encabezados a la PDU, formando una estructura en capas.
+•	Desencapsulación:
+En el extremo receptor, los datos suben a través de las capas y se desencapsulan, extrayendo la información de control y encabezados en cada capa.
+•	Propósito:
+Las PDUs permiten la comunicación efectiva entre las capas del modelo, ya que cada capa opera en su propia unidad de datos específica, garantizando la modularidad y la eficiencia en el diseño de redes.
+7.	Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+Los protocolos en las redes de computadoras son conjuntos de reglas y convenciones que gobiernan la comunicación entre dispositivos. Cada capa del modelo OSI y del modelo TCP/IP tiene su conjunto específico de protocolos que define cómo los dispositivos intercambian información.
+
+Importancia de los Protocolos:
+Facilitan la interoperabilidad: Permite que dispositivos de diferentes fabricantes se comuniquen entre sí.
+Establecen reglas de comunicación: Definen el formato y la estructura de los datos transmitidos.
+Aseguran la integridad y confiabilidad: Incluyen mecanismos para la detección y corrección de errores.
+Proporcionan servicios específicos: Cada protocolo realiza funciones particulares para facilitar la comunicación.
+Proceso de Encapsulamiento de Datos:
+•	Capa de Aplicación:
+La información de la aplicación se divide en segmentos o mensajes más pequeños, según sea necesario.
+•	Capa de Transporte:
+Agrega encabezados de transporte (como encabezados TCP) que contienen información sobre el control de flujo y la secuencia.
+•	Capa de Internet (en el modelo TCP/IP) o Capa de Red (en el modelo OSI):
+Añade encabezados de red (como encabezados IP) que incluyen direcciones de origen y destino, permitiendo el enrutamiento.
+•	Capa de Acceso a la Red (en el modelo TCP/IP) o Capa de Enlace de Datos (en el modelo OSI):
+Incluye encabezados de enlace de datos (como encabezados Ethernet) que contienen direcciones físicas (MAC) para la entrega en la red local.
+•	Capa Física (en ambos modelos):
+Convierte los datos en señales físicas para su transmisión a través del medio físico.
+Ilustración del Proceso con el Modelo TCP/IP:
+
+Propósito del Encapsulamiento:
+El proceso de encapsulamiento asegura que los datos estén estructurados en capas y que cada capa agregue información necesaria para su correcta transmisión y entrega. Cada capa opera en su PDU específica, y los encabezados y controles asociados facilitan el manejo de la comunicación en toda la red.
+Desencapsulación en el Receptor:
+En el extremo receptor, el proceso se invierte. Cada capa elimina sus encabezados y datos de control, extrayendo la información relevante y pasándola a la capa superior hasta que los datos originales son recuperados.
+
+8.	Describir la diferencia entre los modelos de protocolo y modelos de referencia.
+Los modelos de protocolo son específicos de una suite de protocolos y detallan cómo se implementan las funciones en cada capa de esa suite. Por ejemplo, el modelo TCP/IP describe las funciones específicas de las capas en la suite TCP/IP.
+Los modelos de referencia, como el modelo OSI, son más abstractos y no están vinculados a una implementación particular. Proporcionan una guía general para entender las funciones en una red, pero no describen protocolos específicos.
+9.	Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+En el modelo de red TCP/IP, la Capa de Enlace de Datos se ocupa de la comunicación directa entre dispositivos dentro de una red local, utilizando protocolos como Ethernet. La Capa de Internet, representada por el Protocolo de Internet (IP), facilita el enrutamiento de datos entre redes diferentes en una internetwork. La Capa de Transporte, con protocolos como TCP, asegura una entrega confiable y ordenada de extremo a extremo. La Capa de Aplicación brinda servicios específicos a las aplicaciones y usuarios finales, como el protocolo HTTP para la transferencia de hipertexto en aplicaciones web. En el modelo OSI, la Capa de Enlace de Datos gestiona la comunicación sin errores en una red local, con protocolos como Ethernet. La Capa de Red, donde opera el protocolo IP, maneja el enrutamiento y direccionamiento entre redes, mientras que la Capa de Transporte proporciona servicios de transporte extremo a extremo mediante protocolos como TCP y UDP. Cada capa desempeña un papel fundamental en la comunicación de red, ofreciendo servicios específicos para garantizar la transmisión eficiente y segura de datos.
+Práctica trabajo colaborativo
+Git es un sistema de control de versiones distribuido, que nos permite trabajar en el equipo local sin necesidad de tener conexión a una red; pero también podemos colaborar con otros usuarios compartiendo los cambios que vamos realizando en un proyecto. 
+
+En parejas, crear un repositorio en GitHub y desarrollar de forma colaborativa las preguntas del capítulo 1 y 2. Para entender el trabajo colaborativo en git utilizar el siguiente video explicativo: 
+
+GIT / GITHUB [ Tutorial en Español - Parte 1 ] ♥ Inicio Rápido para Principiantes ♥
+
+Crear un archivo .txt para responder el cuestionario y subirlo al repositorio remoto. Cada pregunta respondida se debe enviar al repositorio remoto a través de un commit (ver video). Evidenciar el historial de commits en el repositorio remoto.
+
+Añadir la url del repositorio al documento de entrega y subirlo al Classroom del curso de manera individual.
+
+
+
+
+
+
+
