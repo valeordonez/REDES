@@ -1,0 +1,131 @@
+Actividades capítulo 1 y 2 CCNA1
+
+UNIVERSIDAD DEL CAUCA
+
+FECHA: 8 DE FEBRERO DEL 2023
+NOMBRE: VALENTINA ORDOÑEZ ORDOÑEZ
+CÓDIGO SIMCA:
+
+1.	Leer los capítulos 1 y 2 del curso de Cisco.
+2.	Responder las preguntas de la lectura y enviarlas en PDF.
+
+Preguntas de lectura: Capítulo 1
+1.	Listar al menos 5 actividades cotidianas que realiza usted utilizando internet.
+•	Pagos electrónicos.
+•	Enviar correos electrónicos o recibir correos electrónicos.
+•	Capacitaciones en línea.
+•	Recibir o realizar llamadas a través de internet.
+•	Interactuar en redes sociales.
+2.	Describir los factores que afectan la calidad de las comunicaciones.
+•	la calidad de la ruta entre el emisor y el receptor.
+Esto puede estar influenciado por factores como la velocidad de la red y estabilidad de la red, la tecnología utilizada para la transmisión de los datos, la distancia física de los dispositivos. Una ruta de alta calidad garantiza una comunicación más rápida y sin perdida de información.
+•	la cantidad de veces que el mensaje tiene que cambiar la forma.
+Si el mensaje entre el emisor y el receptor utilizan formatos compatibles, el mensaje puede pasar sin cambios significativos. Sin embargo, si no son compatibles, se pueden requerir conversiones de formato lo que puede generar errores en la comunicación.
+
+
+•	la cantidad de veces que el mensaje tiene que ser redireccionado o redirigido.
+Si una ruta esta congestionada, o si hay algún fallo en algún punto, el mensaje puede llegar a necesitar ser redirigido a una ruta alternativa. Un mayor numero de redirecciones puede aumentar la demora del mensaje y la perdida de datos.
+•	la cantidad de mensajes adicionales que se transmiten simultáneamente en la red de comunicación.
+La congestión de una red puede ser influenciada por la cantidad de mensajes que se estén trasmitiendo simultáneamente. 	Una red con una alta cantidad de mensajes puede experimentar retrasos y complicaciones.
+•	la cantidad de tiempo asignado para una comunicación exitosa.
+Esto depende de la urgencia de información y de los requisitos del sistema. En unos casos el tiempo puede ser flexible, tiene que ver también con el tipo de protocolo. 
+3.	Identificar los componentes clave de cualquier red de datos y describir su funcionamiento.
+Los componentes claves de cualquier rede de datos son:
+•	Mensaje:
+El mensaje es la unidad de información que se transmite a través de la red. Puede ser cualquier forma de información como páginas web, correos electrónicos, mensajes instantáneos o llamadas. Los mensajes se convierten a un formato de bits antes de ser trasmitidos por la red.
+•	Medio:
+El medio representa el canal por donde se trasmiten los mensajes por la red. Pueden ser medios físicos (cables de cobre, fibra óptica) o inalámbricos (microondas, señales de radio).
+•	Reglas (protocolos):
+Son normas que dictan como los dispositivos de la red se deben comunicar entre sí. Establecen el formato, la secuencia y la seguridad de la información transmitida.
+
+
+
+
+4.	Responda con sus propias palabras:
+
+A.	¿Qué son los datos? 
+
+Los datos son representaciones simbólicas de información que puede ser procesada y utilizada para distintas cosas, se puede percibir de diferentes formas, como números, texto, imágenes, audios. 
+
+B.	¿Qué es una red de datos? 
+
+Una red de datos es un sistema interconectado de dispositivos informáticos que se comunican entre sí para transmitir información y recursos.
+
+C.	¿Qué entiende por arquitectura de red?
+
+La arquitectura de red se refiere a la estructura organizativa y el diseño de una red de computadoras. Incluye la disposición de los componentes, la topología de la red, los protocolos utilizados y las reglas que gobiernan la comunicación entre los dispositivos. La arquitectura de red define cómo los elementos de la red están organizados y cómo funcionan en conjunto.
+
+D.	¿Qué es una red convergente?
+
+Una red convergente es aquella que integra y unifica diferentes tipos de servicios de comunicación, como voz, datos y video, en una única infraestructura de red. En lugar de mantener redes separadas para cada tipo de servicio, una red convergente utiliza tecnologías que permiten la transmisión eficiente de varios tipos de datos sobre la misma infraestructura.
+5.	Describir las características de las arquitecturas de red
+
+A.	Tolerante a fallas
+•	La arquitectura de red está diseñada para limitar el impacto de fallas en el software o hardware, asegurando la disponibilidad continua de la red.
+•	Se recupera rápidamente de fallas, minimizando el tiempo de inactividad y asegurando la continuidad del servicio.
+
+
+B.	Escalabilidad
+•	La red tiene la capacidad de expandirse rápidamente y recibir nuevos usuarios y aplicaciones sin degradar el rendimiento para los usuarios existentes.
+•	Puede manejar eficientemente la conexión de miles de nuevos usuarios y proveedores de servicios que se incorporan semanalmente a Internet.
+
+C.	Calidad del servicio 
+•	La capacidad de la red para proporcionar niveles predefinidos de rendimiento, ancho de banda y latencia para diferentes tipos de tráfico.
+•	Implica la priorización y gestión de recursos para garantizar la entrega consistente y eficiente de servicios críticos.
+
+D.	Seguridad. Mostrar sus respectivos ejemplos. 
+
+La seguridad en una arquitectura de red es fundamental para proteger la confidencialidad, integridad y disponibilidad de la información. Implica la implementación de medidas y políticas para prevenir accesos no autorizados, ataques y la pérdida de datos.
+
+Ejemplos de medidas de seguridad:
+•	Firewalls: Dispositivos de seguridad que controlan el tráfico entre redes y aplican reglas para permitir o bloquear ciertos tipos de comunicación.
+•	Cifrado de datos: Transformación de la información en un formato ilegible que solo puede ser descifrado por aquellos que tienen la clave correspondiente.
+•	Autenticación de usuario: Proceso de verificación de la identidad de un usuario antes de permitir el acceso a recursos o servicios
+•	Auditoria de monitoreo: Registro y seguimiento de actividades en la red para detectar comportamientos sospechosos o intentos de intrusión.
+•	Actualizaciones y parches: Mantenimiento regular del software y firmware para corregir vulnerabilidades y garantizar que la red esté protegida contra las últimas amenazas.
+•	Segmentación de la red: División de la red en segmentos o subredes para limitar el impacto en caso de una violación de seguridad.
+6.	Investigar qué son las redes orientadas y no orientadas a la conexión.
+•	Redes orientadas a la conexión:
+Las redes orientadas a la conexión establecen una conexión antes de iniciar la transmisión de datos. Este tipo de red se caracteriza por un proceso de tres fases: establecimiento de conexión, transmisión de datos y liberación de conexión. Durante la fase de establecimiento, se negocian parámetros y se verifica la disponibilidad de recursos para la comunicación. La transmisión de datos garantiza la entrega secuencial y confiable, y al finalizar la comunicación, se realiza la fase de liberación de conexión para liberar los recursos asignados. Un ejemplo común de una red orientada a la conexión es el protocolo TCP (Transmission Control Protocol), que se utiliza en la capa de transporte del modelo TCP/IP. Este enfoque es preferido en aplicaciones que requieren una entrega confiable y en secuencia de datos, como la transferencia de archivos y la navegación web.
+•	Redes no orientadas a la conexión:
+En contraste, las redes no orientadas a la conexión no establecen una conexión antes de la transmisión de datos. En este modelo, la información se envía de manera independiente, sin un orden específico y sin garantía de entrega. No hay fases de establecimiento o liberación de conexión. Un ejemplo típico es el protocolo UDP (User Datagram Protocol), que se utiliza en aplicaciones donde la velocidad y la eficiencia son prioritarias sobre la garantía de entrega de datos, como en transmisiones de audio en tiempo real o juegos en línea. Este enfoque es menos costoso en términos de recursos, pero puede resultar en una menor confiabilidad debido a la posible pérdida de paquetes durante la transmisión.
+7.	Describa que es la calidad del servicio y que se necesita para mantener una buena calidad de servicio para las aplicaciones que lo requieren.
+La calidad de servicio se refiere a la capacidad de una red para proporcionar niveles predefinidos de rendimiento a distintas aplicaciones y servicios. Esto implica garantizar que ciertos parámetros, como ancho de banda, latencia, jitter y pérdida de paquetes, se mantengan dentro de límites aceptables. Para mantener una buena calidad de servicio para las aplicaciones que lo requieren, es necesario:
+•	Reservar Ancho de Banda: Asignar suficiente ancho de banda para garantizar el rendimiento de aplicaciones críticas.
+
+•	Priorizar Tráfico: Clasificar y priorizar tipos de tráfico para asegurar que aplicaciones críticas reciban tratamiento preferencial.
+•	Controlar la Congestión: Implementar mecanismos para evitar la congestión en la red y mantener un flujo de datos eficiente.
+•	Monitorear y Gestionar la Red: Realizar un monitoreo constante para identificar problemas de QoS y ajustar la configuración según sea necesario.
+8.	¿Por qué importa la calidad del servicio en una red de datos? 
+La calidad del servicio es crucial en una red de datos por las siguientes razones:
+•	Eficiencia: Mejora la eficiencia y confiabilidad de la comunicación, asegurando que los datos se entreguen de manera oportuna y sin pérdidas significativas.
+•	Experiencia del Usuario: Impacta directamente en la experiencia del usuario, especialmente en aplicaciones sensibles a la latencia como videollamadas, juegos en línea y transmisiones en tiempo real.
+•	Aplicaciones Críticas: Es vital para aplicaciones críticas como telemedicina, servicios financieros y sistemas de control industrial, donde la fiabilidad y la velocidad son fundamentales.
+9.	Investiga sobre qué son los proveedores de Internet de Nivel-1 (Tier-1) y Nivel-2 (Tier-2), y cómo se diferencian en términos de infraestructura, alcance y relaciones comerciales.
+•	Internet de Nivel-1(Tier-1): Los proveedores de Internet de Nivel-1 son aquellos que poseen una infraestructura global extensa y están conectados directamente a otros proveedores de nivel 1 a través de acuerdos de peering. Estos proveedores tienen una presencia global y ofrecen conectividad a escala mundial sin depender de otros proveedores para acceder a cualquier destino en Internet. No compran servicios de tránsito a otros proveedores, y el tráfico entre ellos se intercambia gratuitamente o mediante acuerdos de peering. Los proveedores de Nivel-1 desempeñan un papel clave en la conectividad global y suelen tener una influencia significativa en la arquitectura de Internet.
+•	Internet de Nivel-2(Tier-2): Los proveedores de Internet de Nivel-2 son aquellos que tienen una red regional o nacional y pueden comprar servicios de tránsito a proveedores de nivel 1 o intercambiar tráfico a través de acuerdos de peering. Estos proveedores dependen de proveedores de nivel 1 para acceder a destinos fuera de su propia red y suelen jugar un papel más regional en la conectividad. Aunque no tienen la misma autonomía global que los proveedores de nivel 1, desempeñan un papel esencial en la expansión de la conectividad a nivel nacional o regional.
+Diferencias: 
+•	Los proveedores de Nivel-1 tienen una presencia global y conectividad directa entre ellos, mientras que los proveedores de Nivel-2 tienen una presencia más regional y dependen de proveedores de Nivel-1 para acceder a destinos globales.
+•	Los proveedores de Nivel-1 intercambian tráfico de manera gratuita o a través de acuerdos de peering, mientras que los proveedores de Nivel-2 pueden comprar servicios de tránsito o intercambiar tráfico mediante peering, pero suelen depender de proveedores de Nivel-1 para el acceso global.
+10.	Identifica al menos tres proveedores de Internet de nivel mundial y clasifícalos en Nivel-1 (Tier-1) o Nivel-2 (Tier-2) según su posición en la jerarquía de la red. Identifica al menos 2 proveedores de internet en Colombia.
+Nivel-1:
+•	Verizon 
+•	AT&T 
+•	Level 3 Communications (ahora parte de CenturyLink) 
+Nivel-2:
+•	Cogent Communications 
+•	Zayo Group 
+En Colombia:
+•	Movistar
+•	Claro
+11.	Investiga sobre la importancia de los proveedores de Internet de Nivel-1 y Nivel-2 en la conectividad global, incluyendo su papel en la transmisión de datos a través de Internet. 
+La importancia de los proveedores de Internet de Nivel-1 y Nivel-2 radica en su contribución fundamental a la conectividad global. Los proveedores de Nivel-1 juegan un papel clave al asegurar rutas eficientes y directas entre diversas regiones, formando la espina dorsal de la infraestructura digital a nivel mundial. Esto garantiza una conectividad robusta y directa entre diferentes puntos del globo. Además, tanto los proveedores de Nivel-1 como los de Nivel-2 desempeñan un papel esencial en la transmisión eficiente de datos a escala mundial, contribuyendo a la reducción de la latencia y a la mejora significativa de la velocidad de conexión para usuarios y servicios en todo el mundo. Su función crucial en la facilitación de la transmisión de datos fortalece la eficiencia y la fiabilidad de las comunicaciones a nivel global.
+12.	Reflexiona sobre el papel crucial de los proveedores de Internet en la infraestructura digital global y cómo su gestión y regulación pueden impactar en la equidad y la eficiencia del acceso a Internet.
+Los proveedores de Internet revelan su importancia fundamental en la configuración y sostenimiento de la infraestructura digital global. Estos proveedores desempeñan un papel central al proporcionar la conectividad que sustenta la interconexión mundial, formando la columna vertebral de la infraestructura que facilita la comunicación a nivel global. La gestión y regulación de estos proveedores tienen un impacto directo en la equidad y eficiencia del acceso a Internet a nivel mundial. Una administración equitativa y regulación apropiada resultan esenciales para asegurar que todos los usuarios tengan acceso de manera justa a servicios de calidad, evitando la creación de monopolios y prácticas anticompetitivas que podrían perjudicar la igualdad de oportunidades.
+
+Además, la eficacia de la regulación no solo influye en la equidad, sino que también tiene repercusiones en la eficiencia y el desarrollo de la sociedad digital. Una regulación efectiva puede estimular la inversión en infraestructura, promoviendo así la eficiencia operativa y contribuyendo al avance continuo de la sociedad digital. La adecuada supervisión y regulación de los proveedores de Internet son elementos cruciales para garantizar un acceso equitativo, eficiente y sostenible a los servicios en línea en un contexto global interconectado.
+
+
+
+
+
